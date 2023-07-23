@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ini-s/Huddle-Landing-Page](https://github.com/ini-s/Huddle-Landing-Page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ini-s.github.io/Huddle-Landing-Page/](https://ini-s.github.io/Huddle-Landing-Page/)
 
 ### Built with
 
