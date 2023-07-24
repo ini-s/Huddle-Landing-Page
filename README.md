@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ini-s/Huddle-Landing-Page](https://github.com/ini-s/Huddle-Landing-Page)
-- Live Site URL: [https://ini-s.github.io/Huddle-Landing-Page/](https://ini-s.github.io/Huddle-Landing-Page/)
+- Live Site URL: [https://huddle-landing-page-xi-one.vercel.app/](https://huddle-landing-page-xi-one.vercel.app/)
 
 ### Built with
 
