@@ -30,6 +30,7 @@ h2,
 h3 {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
+  color: hsl(192, 100%, 9%);
 }
 
 p {
@@ -396,6 +397,10 @@ footer .contact {
   }
 
   @media screen and (min-width: 1200px) {
+    .home {
+      padding-top: 2rem;
+    }
+
     h1 {
       font-size: 2.5rem;
     }
@@ -417,7 +422,7 @@ footer .contact {
     }
 
     .get-started h2 {
-      font-size: 1.6rem;
+      font-size: 1.8rem;
     }
 
     .get-started-btn {
